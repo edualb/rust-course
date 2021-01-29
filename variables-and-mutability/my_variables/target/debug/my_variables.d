@@ -1,0 +1,1 @@
+/Users/eduardoalbuquerque/Documents/Projects/MyProjects/rust-course/variables-and-mutability/my_variables/target/debug/my_variables: /Users/eduardoalbuquerque/Documents/Projects/MyProjects/rust-course/variables-and-mutability/my_variables/src/main.rs
