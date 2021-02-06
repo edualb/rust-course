@@ -1,0 +1,221 @@
+[
+    {
+        "_id" : "5f61414eece6eba07366aca2",
+        "globoid" : "272f5d4c-1dd9-4364-ac50-2204799417ec",
+        "created" : "2020-09-15T22:33:50.098Z",
+        "updated" : "2020-11-10T20:21:52.181Z",
+        "ents" : [ 
+            {
+                "key" : "globoplay@vendas",
+                "client" : "anon",
+                "created" : "2020-09-15T22:33:50.098Z",
+                "updated" : "2020-09-15T22:33:50.098Z",
+                "deleted" : false
+            }, 
+            {
+                "key" : "bbb-ao-vivo@vendas",
+                "client" : "anon",
+                "created" : "2020-09-15T22:33:50.222Z",
+                "updated" : "2020-09-15T22:33:50.222Z",
+                "deleted" : false
+            }, 
+            {
+                "key" : "novelas@vendas",
+                "client" : "anon",
+                "created" : "2020-09-15T22:33:50.233Z",
+                "updated" : "2020-09-15T22:33:50.233Z",
+                "deleted" : false
+            }, 
+            {
+                "key" : "globoplay-internacional@vendas",
+                "client" : "anon",
+                "created" : "2020-09-15T22:33:50.245Z ",
+                "updated" : "2020-09-15T22:33:50.245Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "globoplay-canais@vendas",
+                "client" : "anon",
+                "created" : "2020-09-15T22:33:50.260Z ",
+                "updated" : "2020-09-15T22:33:50.260Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "globoplay@developer",
+                "client" : "anon",
+                "started" : "2019-09-02T20:20:20.000Z ",
+                "expired" : "2020-09-02T20:20:20.000Z ",
+                "created" : "2020-09-22T13:50:38.201Z ",
+                "updated" : "2020-09-22T13:50:38.201Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "e2e@gateway",
+                "client" : "anon",
+                "created" : -62135596800000,
+                "updated" : "2020-11-10T20:21:52.183Z ",
+                "deleted" : true
+            }, 
+            {
+                "key" : "e2e2@gateway",
+                "client" : "anon",
+                "created" : -62135596800000,
+                "updated" : "2020-11-10T20:21:52.183Z ",
+                "deleted" : true
+            }
+        ]
+    },
+
+    {
+        "_id" : "5f6a021eb0f0da6ab7a8b59f ",
+        "globoid" : "b5a87edd-9323-473f-8439-5f5e44034c7f",
+        "created" : "2020-09-22T13:54:38.838Z ",
+        "updated" : "2020-09-22T13:54:39.269Z ",
+        "ents" : [ 
+            {
+                "key" : "globoplay-canais@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T13:54:38.838Z ",
+                "updated" : "2020-09-22T13:54:39.171Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "globoplay@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T13:54:38.887Z ",
+                "updated" : "2020-09-22T13:54:39.181Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "bbb-ao-vivo@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T13:54:38.904Z ",
+                "updated" : "2020-09-22T13:54:39.190Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "novelas@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T13:54:38.960Z ",
+                "updated" : "2020-09-22T13:54:39.258Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "globoplay-internacional@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T13:54:38.998Z ",
+                "updated" : "2020-09-22T13:54:39.269Z ",
+                "deleted" : false
+            }
+        ]
+    },
+
+
+    {
+        "_id" : "5f6a17a1b0f0da6ab7a8c422 ",
+        "globoid" : "c76f4056-4d0a-4c2b-9b16-333fd7fa6a38",
+        "created" : "2020-09-22T15:26:25.658Z ",
+        "updated" : "2020-10-08T19:35:10.534Z ",
+        "ents" : [ 
+            {
+                "key" : "globoplay@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T15:26:25.658Z ",
+                "updated" : "2020-09-22T15:26:26.019Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "novelas@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T15:26:25.857Z ",
+                "updated" : "2020-09-22T15:26:26.157Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "combate@vendas.operadora",
+                "client" : "anon",
+                "started" : "2019-09-02T20:20:20.000Z ",
+                "expired" : "2029-09-02T20:20:20.000Z ",
+                "created" : "2020-10-08T19:35:10.434Z ",
+                "updated" : "2020-10-08T19:35:10.434Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "premiere@vendas.operadora",
+                "client" : "anon",
+                "started" : "2020-09-02T20:20:20.000Z ",
+                "expired" : "2020-10-02T20:20:20.000Z ",
+                "created" : "2020-10-08T19:35:10.534Z ",
+                "updated" : "2020-10-08T19:35:10.534Z ",
+                "deleted" : false
+            }
+        ]
+    },
+
+    {
+        "_id" : "5f6a1e84b0f0da6ab7a8c8e6 ",
+        "globoid" : "5050fa33-0723-45b8-b937-cae87455c204",
+        "created" : "2020-09-22T15:55:48.063Z ",
+        "updated" : "2020-09-22T15:55:48.440Z ",
+        "ents" : [ 
+            {
+                "key" : "globoplay@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T15:55:48.063Z ",
+                "updated" : "2020-09-22T15:55:48.432Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "novelas@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T15:55:48.196Z ",
+                "updated" : "2020-09-22T15:55:48.440Z ",
+                "deleted" : false
+            }
+        ]
+    },
+
+    {
+        "_id" : "5f6a41b9b0f0da6ab7a8e0e6 ",
+        "globoid" : "33cb6d1a-071c-4210-bfad-1185dade8ee6",
+        "created" : "2020-09-22T18:26:01.149Z ",
+        "updated" : "2020-09-22T18:36:16.944Z ",
+        "ents" : [ 
+            {
+                "key" : "globoplay@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T18:26:01.149Z ",
+                "updated" : "2020-09-22T18:36:16.848Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "globoplay-internacional@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T18:26:01.369Z ",
+                "updated" : "2020-09-22T18:36:16.857Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "novelas@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T18:26:01.379Z ",
+                "updated" : "2020-09-22T18:36:16.864Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "bbb-ao-vivo@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T18:26:01.392Z ",
+                "updated" : "2020-09-22T18:36:16.839Z ",
+                "deleted" : false
+            }, 
+            {
+                "key" : "globoplay-canais@vendas",
+                "client" : "anon",
+                "created" : "2020-09-22T18:26:01.402Z ",
+                "updated" : "2020-09-22T18:36:16.944Z ",
+                "deleted" : true
+            }
+        ]
+    }
+]

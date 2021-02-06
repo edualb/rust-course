@@ -1,0 +1,1 @@
+/Users/eduardoalbuquerque/Documents/Projects/MyProjects/rust-course/references-and-borrowing/target/debug/references-and-borrowing: /Users/eduardoalbuquerque/Documents/Projects/MyProjects/rust-course/references-and-borrowing/src/main.rs
