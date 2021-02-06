@@ -2,7 +2,7 @@ fn main() {
     // # Slices!
     let s = String::from("Hello there"); // 
     let first_word = first_word(&s); // immutable reference
-    s.clear(); // mutable reference
+    // s.clear(); // mutable reference
     println!("{}", first_word);
 }
 
