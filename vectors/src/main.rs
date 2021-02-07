@@ -63,4 +63,15 @@ fn main() {
             println!("{}", s);
         }
     }
+
+    // derefs
+
+    let mut v9 = vec![1, 2, 3];
+    println!("{:?}", v9);
+
+    for val in &mut v9 {
+        *val += 1;
+    }
+    
+    println!("{:?}", v9);
 }
